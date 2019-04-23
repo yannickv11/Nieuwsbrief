@@ -22,7 +22,7 @@
 <a href="inschrijven.php">Inschrijven</a><br>
 <a href="uitschrijven.php">Uitschriven</a><br>
 <h2>Voor admins</h2>
-<a href="">Nieuwsbrief versturen</a><br>
+<a href="versturen.php">Nieuwsbrief versturen</a><br>
 <a href="">Mailinglijst beheren</a><br>
 </body>
 </html>
