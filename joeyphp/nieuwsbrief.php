@@ -15,6 +15,11 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>nieuwsbrief</title>
+    <style>
+        h1 {
+            font-size: 50px;
+        }
+    </style>
 </head>
 <body>
 <h1>Nieuwsbrief</h1>
@@ -23,6 +28,6 @@
 <a href="uitschrijven.php">Uitschriven</a><br>
 <h2>Voor admins</h2>
 <a href="versturen.php">Nieuwsbrief versturen</a><br>
-<a href="">Mailinglijst beheren</a><br>
+<a href="beheren.php">Mailinglijst beheren</a><br>
 </body>
 </html>
