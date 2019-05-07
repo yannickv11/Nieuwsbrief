@@ -34,7 +34,7 @@ echo '<a href = "delete.php?id='.$id.'">DELETE</a>';
 echo '</td>';
 
 echo '<td>';
-echo '<a href = "edit.php?id='.$id.'">EDIT</a>';
+echo '<a href = "edit.php?id='.$id.'&voornaam='.$voornaam.'&tussenvoegsel='.$tussenvoegsel.'&achternaam='.$achternaam.'&mailadres='.$mailadres.'">EDIT</a>';
 echo '</td>';
 
 echo '</tr>';
